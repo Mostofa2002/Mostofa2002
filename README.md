@@ -10,7 +10,7 @@ MERN STACK DEVELOPER
 
 * 🌍  I'm based in Kushtia,Bangladesh
 
-* ✉️  You can contact me at [taj.2020x@gmail.com]
+* ✉️  You can contact me at taj.2020x@gmail.com
   
 * 🧠  I'm learning Mongoose
 
